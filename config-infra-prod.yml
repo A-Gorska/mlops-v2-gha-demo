@@ -8,7 +8,7 @@ variables:
   ap_vm_image: ubuntu-20.04
 
   namespace: mlops
-  postfix: AG250324
+  postfix: A25324G
   location: eastus
 
   environment: prod
